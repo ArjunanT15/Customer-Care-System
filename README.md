@@ -1,9 +1,6 @@
-# Customer-Care-System
-Sure! Here's a **simple overview** of the Customer Care System application:
 
----
 
-## 📝 Customer Care System – Overview
+## 📝 Customer Care System 
 
 This is a **Java Swing** application that helps manage customer support issues.
 
